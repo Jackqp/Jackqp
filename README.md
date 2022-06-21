@@ -1,5 +1,5 @@
 ## Stats
 
-![](https://komarev.com/ghpvc/?username=jackqp&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Jackqp&color=blueviolet)
 
-![Jackqp GitHub stats](https://github-readme-stats.vercel.app/api?username=jackqp&show_icons=true&theme=midnight-purple&count_private=true)
+![Jackqp GitHub stats](https://github-readme-stats.vercel.app/api?username=Jackqp&show_icons=true&theme=midnight-purple&count_private=true)
